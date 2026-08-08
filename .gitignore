@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+logs/
+*.log
+*.mp3
+
+# Development/test files
+ai_test.py
+main_backup.py
+mic_test.py
+speech_test.py
+test_mic.py
+test_speech.py
+voices.py
